@@ -1,0 +1,29 @@
+{E:/in progress 2/HDL/exercise/3/1/registerBank64x32_test.v} {1 {vlog -work work -vopt -stats=none {E:\in progress 2\HDL\exercise\3\1\registerBank64x32_test.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module registerBank64x32_test
+
+Top level modules:
+	registerBank64x32_test
+
+} {} {}} {E:/in progress 2/HDL/exercise/3/1/myReg_test.v} {1 {vlog -work work -vopt -stats=none {E:/in progress 2/HDL/exercise/3/1/myReg_test.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module myReg_test
+
+Top level modules:
+	myReg_test
+
+} {} {}} {E:/in progress 2/HDL/exercise/3/1/registerBank64x32.v} {1 {vlog -work work -vopt -stats=none {E:\in progress 2\HDL\exercise\3\1\registerBank64x32.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module registerBank64x32
+
+Top level modules:
+	registerBank64x32
+
+} {} {}} {E:/in progress 2/HDL/exercise/3/1/myReg.v} {1 {vlog -work work -vopt -stats=none {E:/in progress 2/HDL/exercise/3/1/myReg.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module myReg
+
+Top level modules:
+	myReg
+
+} {} {}}

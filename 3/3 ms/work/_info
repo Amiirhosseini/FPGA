@@ -1,0 +1,68 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/in progress 2/HDL/exercise/3/3
+T_opt
+!s110 1637769574
+V>;[:>He@Q;hAjkYhaYDfe3
+04 20 4 work TestSequenceDetector fast 0
+=1-fc34974a66f3-619e6165-36d-4f04
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vSequenceDetector
+Z1 !s110 1637769570
+!i10b 1
+!s100 ?^cc>M@C3bR;6h:cR?IKm3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I^6h7[Q7nBj=ehzU8B4m<42
+Z3 dE:/in progress 2/HDL/exercise/3/3 ms
+w1637769560
+8E:\in progress 2\HDL\exercise\3\3 ms\Q3.v
+FE:\in progress 2\HDL\exercise\3\3 ms\Q3.v
+!i122 8
+L0 1 111
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1637769570.000000
+!s107 E:\in progress 2\HDL\exercise\3\3 ms\Q3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\in progress 2\HDL\exercise\3\3 ms\Q3.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@sequence@detector
+vTestSequenceDetector
+R1
+!i10b 1
+!s100 nXKWUAPA[c027[@9[o6900
+R2
+IMMEczjkDz<=fK^oO7[[Z52
+R3
+w1637768629
+8E:\in progress 2\HDL\exercise\3\3 ms\Q3_test.v
+FE:\in progress 2\HDL\exercise\3\3 ms\Q3_test.v
+!i122 9
+L0 2 59
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:\in progress 2\HDL\exercise\3\3 ms\Q3_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\in progress 2\HDL\exercise\3\3 ms\Q3_test.v|
+!i113 0
+R7
+R0
+n@test@sequence@detector

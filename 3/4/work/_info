@@ -1,0 +1,88 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/in progress 2/HDL/Quiz/1
+T_opt
+!s110 1637666614
+V7gG0iVTVcCCj]cP75=0Za1
+Z1 04 29 4 work Binary_Divisibility_By_7_test fast 0
+=1-fc34974a66f3-619ccf35-3ab-4fb0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1637659911
+VHOMRz0P5`E3Hf7Aa:4@mn1
+R1
+=1-fc34974a66f3-619cb507-214-2fc0
+Z4 o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1637658746
+VTIR1d^_hoWc@P:[in6USH2
+04 22 4 work Binary_Divisibility_By fast 0
+=1-fc34974a66f3-619cb07a-a6-2868
+R4
+R2
+n@_opt2
+R3
+R0
+vBinary_Divisibility_By_7
+Z5 !s110 1637666610
+!i10b 1
+!s100 <DUkP@=];eQ7m9Rc?D@Cl2
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IbB]]mJ5W^_H5;NN=AF;Xe0
+Z7 dE:/in progress 2/HDL/exercise/3/4
+w1637664523
+8E:\in progress 2\HDL\exercise\3\4\Binary_Divisibility_By_7.v
+FE:\in progress 2\HDL\exercise\3\4\Binary_Divisibility_By_7.v
+!i122 28
+L0 3 38
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1637666610.000000
+!s107 E:\in progress 2\HDL\exercise\3\4\Binary_Divisibility_By_7.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\in progress 2\HDL\exercise\3\4\Binary_Divisibility_By_7.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@binary_@divisibility_@by_7
+vBinary_Divisibility_By_7_test
+R5
+!i10b 1
+!s100 gmN?PT2W:ZY;JMCIH4`n82
+R6
+I<]3]UKanZ^5e;IboRO_6=1
+R7
+w1637666606
+8E:\in progress 2\HDL\exercise\3\4\Binary_Divisibility_By_7_test.v
+FE:\in progress 2\HDL\exercise\3\4\Binary_Divisibility_By_7_test.v
+!i122 29
+L0 3 48
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:\in progress 2\HDL\exercise\3\4\Binary_Divisibility_By_7_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\in progress 2\HDL\exercise\3\4\Binary_Divisibility_By_7_test.v|
+!i113 0
+R11
+R2
+n@binary_@divisibility_@by_7_test

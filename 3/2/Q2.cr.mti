@@ -1,0 +1,15 @@
+{E:/in progress 2/HDL/exercise/3/2/m_counter.v} {1 {vlog -work work -vopt -stats=none {E:/in progress 2/HDL/exercise/3/2/m_counter.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module m_counter
+
+Top level modules:
+	m_counter
+
+} {} {}} {E:/in progress 2/HDL/exercise/3/2/m_counter_test.v} {1 {vlog -work work -vopt -stats=none {E:/in progress 2/HDL/exercise/3/2/m_counter_test.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module m_counter_test
+
+Top level modules:
+	m_counter_test
+
+} {} {}}
